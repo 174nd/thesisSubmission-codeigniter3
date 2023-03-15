@@ -1,0 +1,55 @@
+@page {
+	margin: 25px 100px 0px 100px;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+}
+
+table img {
+	margin-left: -40px;
+	width: 113%;
+}
+
+.penomoran {
+	width: 100%;
+}
+
+
+.perihal {
+	font-weight: bold;
+	/* font-style: italic; */
+	text-decoration: underline;
+}
+
+
+.tujuan {
+	font-weight: bold;
+}
+
+p {
+	text-align: justify !important;
+}
+
+.detail_mahasiswa {
+	/* align-items: flex-start !important; */
+	text-align: justify !important;
+	margin: 0 50px 0 30px;
+}
+
+.tabel_pimpinan {
+	text-align: center !important;
+	margin-left: 310px;
+}
+
+
+
+.tabel_pimpinan tr:nth-child(4) td {
+	font-weight: bold;
+	/* font-style: italic; */
+	text-decoration: underline;
+}
+
+.tabel_pimpinan tr:nth-child(5) td {
+	font-weight: bold;
+	/* font-style: italic; */
+	/* text-decoration: underline; */
+}
